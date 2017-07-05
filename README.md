@@ -1,5 +1,8 @@
 # Constellation Essentials
 
+![][CE:shield-version]
+![][CE:shield-license]
+
 **Constellation Essentials** is a part pack for Kerbal Space Program inspired by the NASA Constellation program. Provides various parts
 for the Copernicus A and B Mars Transfer Vehicle (MTV) variants and the Ares V launch vehicle.
 
@@ -27,6 +30,8 @@ You should have received a copy of the license along with this work. If not, vis
 
 ***
 
+[CE:shield-version]:        https://img.shields.io/badge/KSP%20Version-1.3.0.1804-red.svg
+[CE:shield-license]:        https://img.shields.io/badge/License-CC--BY--SA%204.0-green.svg
 [CE:cc-license-link]:       https://creativecommons.org/licenses/by-sa/4.0/legalcode/
 [CE:contributor-baha-link]: http://forum.kerbalspaceprogram.com/index.php?showtopic=69581/
 [CE:copernicus-render]:     http://www.citizensinspace.org/wp-content/uploads/2013/01/NASACopernicus.jpg
