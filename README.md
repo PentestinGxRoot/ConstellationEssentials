@@ -26,7 +26,7 @@ You should have received a copy of the license along with this work. If not, vis
 
 ***
 
-![][CE:copernicus-render]
+<p align="center"><img width="700" height="394" src="http://www.citizensinspace.org/wp-content/uploads/2013/01/NASACopernicus.jpg"></p>
 
 ***
 
@@ -34,5 +34,4 @@ You should have received a copy of the license along with this work. If not, vis
 [CE:shield-license]:        https://img.shields.io/badge/License-CC--BY--SA%204.0-green.svg
 [CE:cc-license-link]:       https://creativecommons.org/licenses/by-sa/4.0/legalcode/
 [CE:contributor-baha-link]: http://forum.kerbalspaceprogram.com/index.php?showtopic=69581/
-[CE:copernicus-render]:     http://www.citizensinspace.org/wp-content/uploads/2013/01/NASACopernicus.jpg
 [CE:part-gallery-link]:     https://imgur.com/a/coZoW/
